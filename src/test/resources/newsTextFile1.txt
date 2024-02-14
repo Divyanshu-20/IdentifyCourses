@@ -1,0 +1,569 @@
+On Tuesday’s earnings call, Ravi and Jatin discussed our recent performance in the fourth quarter and the full-year (FY) 2023. Here are the top 10 takeaways, covering both the numbers and company news.
+ Top 10 takeaways
+FY revenue of $19.4B, a slight decline of 0.4% year-over-year, within our guidance range
+FY operating margin of 13.9%, above our guidance range
+FY operating cash flow of $2.3B
+12-month bookings of $26.3B, up 9% year-over-year
+Headcount in Q4 was 347,700, up 1,100 from Q3, but an overall decrease of 7,600 year-over-year
+Voluntary attrition for 2023 was 13.8%, down nearly 12% from 2022
+Numerous client wins, including Takeda, Fortrea, Cambridge University Press & Assessment, Alm. Brand Group, University of Melbourne, and Riyadh Airports Company
+Several partnership announcing, including ServiceNow, Microsoft, and Amazon
+Partnered with Oxford Economics to quantify generative AI’s impact on productivity and the future of work
+Earned a top score in Human Rights Campaign Foundation’s 2023-2024 Corporate Equality Index
+ Read Ravi's full message to Cognizant associates here. 
+ Missed the call? A replay will be available at Cognizant.com starting on February 7. You can also read the Q4 results press release here. Excitement is building as we prepare for the first-ever Impact Awards, which is all about recognizing the incredible achievements of our employees. As part of our commitment to recognition, we are thrilled to introduce the four talented associates who will guide us through the festivities as our emcees. They may even be your team members! 
+ ChennaiKathy Nunes (She/Her) 
+Senior manager, Gen C Human Resources 
+9 years with Cognizant 
+Based in Bangalore, India 
+Fun fact: She says don't ask her for directions. She will send you the wrong way as she has a challenge with right and left. 
+Watch her video hereVasanth Venkatachari (He/Him) 
+Director, Transformation Coach 
+6 years at Cognizant 
+Based in Chennai, India 
+Vasanth is head of Embrace (LGBTQ+ affinity group) in India
+Fun fact: Vasanth is a rather serious cryptic crossword puzzle solver and can't start a day without itLondonAlex Pyke  
+Associate director, Global Events 
+3 years at Cognizant 
+Based in London, U.K. 
+Fun Fact: Alex is an Australian-made food and wine lover New YorkJason Marconi (He/Him) 
+Manager, Office of the CPO 
+8 years at Cognizant 
+Based in Teaneck, New Jersey 
+Fun Fact: Jason is a 4th degree black belt and won the gold medal for pickleball at the 2023 Keystone State Games 
+Watch his video hereKathy and Jason: ”We can't wait for you to join us.”Watch live
+On February 13, tune in to watch the emcees host this incredible event. 
+ Date: Tuesday, February 13   
+Time: 6:30 PM IST | 1:00 PM GMT | 8:00 AM EST   
+Where: https://cognizant.brandlive.com/Impact-Awards-2024/en   
+ Be sure to check out the finalists too!The Impact Awards will be a celebration to remember. We’re celebrating teams and individuals across the business in several categories. Two of the awards are the Spirit Award and the Social Impact Project of the Year Award. A few weeks ago, we asked for your nominations for these awards and here are the finalists!  
+ Social Impact Project of the Year Award
+ Vijayapriya VS, engagement delivery partner, Americas Life Sciences, is a self-starter whose outreach work has impacted more than 5,000 students. In addition to her GDstein series, she has created an opportunity to showcase young talent working toward manufacturing prosthetic hands for those in need. Her work is not limited to students — she also created a startup-focused series that showcases their work on ecological restoration.
+ Project DHYEYA is committed to empowering underprivileged students. The program offers academic training, financial support and mentorship to students across multiple cities in India. The team mobilizes a network of more than 200 dedicated employee volunteers, helping students gain admission to top universities and scoring high in competitive exams, like the NTSE and NMMSS.  
+ The CTS Raleigh-Durham team supports their local community through cleaning trails, volunteering at the Ronald McDonald House and participating in charity walks — and they also work hard to foster community amongst themselves. Through their Engage (Yammer) page and WhatsApp group, they ensure seamless communication within their organization. They make events accessible and enjoyable for all team members, which in turn creates a strong sense of team unity.  
+ Spirit Award
+ Raghuveeran Sowmyanarayanan, senior director, AIA Delivery, has elevated the standards of project management within the organization. Leading his team strategically and emphasizing teamwork and collaboration, his programs, like the Gen AI Hackathons, foster teamwork, creativity and learning. He frequently encourages his team to make time for upskilling, and with his AICyclopedia tech talks, he shows he values intellectual curiosity. His innovation creates a dynamic team, ready to tackle AI.  
+ As a team leader for IOA Tech AI/ML, Verna Lyn Pascual’s team emphasized how she is the model of an empathetic leader. She has infectious enthusiasm and dedicates herself to making sure everyone on her team feels at ease and included. She takes leadership courses to make sure she’s doing her part for her team and is always asking for feedback on her leadership. She’s been described as the “safest person to turn to for help.”  
+ Sumita Biswal, program manager, QEA BFS, has a customer-focused approach that has earned her team the highest NPS score of the last four years. She supports those on her team with leadership potential and frequently has skip-level meetings with her team so that she can fully support them and understand different dimensions of the work. She created a “celebration team” to lead activities, like in-office celebrations and women associate sessions, leading to increased motivation for her team. 
+ Watch the winners live 
+On February 13, tune in to view winners from this list and from other categories across the company.  
+ Date: Tuesday, February 13   
+Time: 6:30 PM IST | 1:00 PM GMT | 8:00 AM EST   
+Where: https://cognizant.brandlive.com/Impact-Awards-2024/en   
+Watch the teaser video below or click to watch here
+ Be sure to check out your emcees too!The ET Now Global Business Summit 2024 brought together some of the world’s leading CEOs, heads of state and policymakers to deliberate on and discuss critical issues of our time and map the future. The theme of the summit was Disruption, Development and Diversification.
+ Addressing the summit in his keynote, our CEO, Ravi Kumar spoke on Generative AI's power to shape the future of work and later in the day spoke at a panel discussion on the topic Fissures, Faultlines and Future.
+ Highlights from Ravi's keynote:
+  “Cognizant is at the forefront of leveraging technological advancements. Generative AI represents a departure from past technological shifts, fundamentally altering the landscape of jobs, skills, tasks, and occupations while fostering upward social mobility. Unlike its predecessors, Generative AI follows a steeper S-curve trajectory, significantly transforming various industries,” he said. 
+
+Comparing the Generative AI’s impact to historical computing changes, Ravi added, “Businesses must adapt by reorganizing operations, prioritizing safety, trust, and equity to ensure a fair and inclusive future. Its rapid diffusion and bidirectional understanding between humans and machines mirror past technological revolutions.”
+ He concluded by highlighting Cognizant’s focus on technological continuity, emphasizing the imperative for businesses to adapt their strategies alongside advancing technologies to cultivate a prosperous and inclusive future workforce.
+  Ravi also participated in a panel discussion on the topic Fissures, Faultlines and Future – In Search of an Equilibrium, along with other eminent industry leaders including Bill Winters, CEO, Standard Chartered, Jenny Johnson, President and CEO, Franklin Templeton, Rizwan Sajan, Founder and Chairman, Danube Group and Suneeta Reddy, MD, Apollo Hospitals. The leaders discussed some of the most critical problems faced by the world today, the role of AI, and the growth roadmap for India.
+   Before concluding the day, Ravi met India’s Hon'ble Prime Minister, Narendra Modi and Hon’ble PM of Guyana, H.E Brigadier (Retd.), Indian ministers and industry leaders from across the world.
+  To watch the full recording of the summit, click here.
+Timestamps:
+Ravi’s keynote: 2:36 (mins) till 2:52 (mins)
+Panel discussion: 3:04 (mins) till 3:33 (mins)
+ To know more about GBS, click here.January 21
+Cognizant at the WEF Economic Meeting: Elevating Cognizant’s stature on the world stage
+I am so thrilled with everything our company accomplished at the World Economic Forum (WEF) Annual Meeting. This theme of gen AI as an equalizer played out in nearly every conversation I had in Davos—and I had scores of them. Our leadership team had more than 100 individual client and partner meetings over four days and (as conveyed by the photos in this message) hosted more than 130 guests at events in our Cognizant lounge. These 230-plus connections will drive future commercial opportunities, partnerships, and collaborations. I can’t think of a more productive way to build so many relationships so rapidly than through the activations the team executed at WEF. 
+ WEF consists of far more than the January annual meeting in Switzerland. It’s a year-long flywheel of activity. The panel on which I participated was the culmination of a year-long collaboration among regulators, economists, academics, and industry leaders. Although we entered the conversation about halfway through the year, we quickly established ourselves as thought leaders. I believe our year-long engagement as a WEF strategic partner will be a virtuous cycle that will enhance our reputation and open new doors for our company.
+ You can catch up on the stream of images and recaps available on Be.Cognizant. January 16
+Cognizant unveils gen AI-powered Innovation Assistant, in collaboration with Microsoft, empowering Cognizant's employees to innovate
+Today we announced the Innovation Assistant, a generative AI-powered tool built on Microsoft Azure OpenAI Service, which will augment our internal innovation program, Bluebolt. The creativity and ingenuity of Cognizant's people is one of the things that sets us apart in our industry, and we see our Innovation Assistant as a game-changer in the way we generate and implement ideas. Microsoft President Puneet Chandok called it a “force multiplier.” 
+ Read the full press release and Alexis Samuel's announcement. January 12
+AI Innovation Studios launched in Bengaluru, Hudson Yards and Plano
+In October, we opened our first AI Innovation Studio in London. This week we opened three more in India, New York, and Dallas. Our AI Innovation Studio is intended to be an inspiration, ideation and research space, helping bring our clients and associates together to find business solutions. Our AI Innovation Studios are intended to be an inspiration, ideation and research space, helping bring our clients and associates together to find business solutions. We want to inspire clients with the possibility of technology and showcase the breadth and depth of the work that Cognizant is undertaking to generate further conversations, interest and sales leads. 
+ Take a peek at the new innovation studios. January 10
+ET Edge Insights magazine
+I had the change to sit down with ET Edge Insights magazine for a story on Charting Cognizant’s New Course. ET Edge Insights is in circulation to over 10,000 senior business leaders and decision-makers, including global CEOs, eminent personalities, thought leaders, and policy makers. In the story, I talk about the future of Cognizant, what vulnerability means to me, and my optimism about the strength of our portfolio and partner ecosystem. 
+ You can read the full story here.January 4
+Fortrea selects Cognizant as its technology transformation provider 
+Today we announced that Fortrea, a leading global provider of clinical development and patient access solutions to the life sciences industry, has selected Cognizant as its strategic technology transformation provider.
+ By partnering with Cognizant, Fortrea aims to continue advancing its mission and delivering solutions to its pharmaceutical, biotechnology and medical device customers – and to the patients those customers serve – within the confines of a sound and secure digital infrastructure. Learn more here. January 3
+Educational innovation through AI: Cognizant signs multi-year contract with Cambridge University Press & Assessment
+I'm pleased to share that Cambridge University Press & Assessment (Cambridge) has signed a multi-year contract with Cognizant with the goal of improving operational effectiveness, maintaining exam results integrity and staying competitive in the evolving education sector. Under the agreement, Cognizant will continue to provide application development and support services to Cambridge.
+ The agreement comes as Cambridge addresses the growing desire for digital engagement and innovative products that effectively meet the needs of learners, teachers, and researchers. In response to this demand, Cambridge and Cognizant will drive digital transformation, transition to a product-centric approach and leverage AI technology. Learn more here. December 27
+Riyadh Airports Company selects Cognizant to help enhance its digital transformation
+I'm excited to share that Riyadh Airports Company (RAC) has appointed Cognizant to enhance the capabilities of RAC's Enterprise Resource Planning (ERP) and business processes automation capabilities. The collaboration aims to revolutionize digital capabilities in the domains of finance, human resources, procurement, and planning, ultimately enhancing the traveler experience. Learn more here.
+     December 27
+Cognizant named a leader in the MedTech Operations PEAK Matrix® Assessment 2023
+I'm pleased to announce that Cognizant has been recognized by Everest Group as a leader in its MedTech Operations PEAK Matrix for 2023. In its report, Everest Group evaluated 15 service providers, placing four in the leader category. Leaders are noted to offer a well-balance MedTech operations portfolio across the value-chain, a global delivery footprint, a wide partnership network, and drive superior client engagement. Learn more here. December 19
+Cognizant earns top score in Human Rights Campaign Foundation’s 2023-2024 Corporate Equality Index
+I'm thrilled to share that Cognizant earned a score of 100 on the Human Rights Campaign Foundation’s 2023-2024 Corporate Equality Index (CEI), the leading U.S. benchmarking survey and report measuring corporate policies and practices related to LGBTQ+ workplace equality.
+ The results of the 2023 CEI showcase how companies promote LGBTQ+ friendly workplace policies. Cognizant’s efforts in satisfying all of the CEI’s criteria earned us a score of 100 and the designation as a recipient of the Equality 100 Award: Leader in LGBTQ+ Workplace Inclusion. Learn more here. December 19
+PGA TOUR’s event to be renamed “Cognizant Classic”
+The PGA TOUR, Children’s Healthcare Charity, Inc. and Cognizant today announced an agreement where Cognizant will become the new title sponsor of the PGA TOUR’s long-running South Florida event, which will be renamed the “Cognizant Classic.”
+ With support from Jack and Barbara Nicklaus, Children’s Healthcare Charity, Inc., has hosted the golf tournament since 2007. The tournament’s primary beneficiary continues to be The Nicklaus Children’s Health Care Foundation, which bolsters initiatives that advance and enhance the diagnosis, treatment and prevention of childhood diseases and disorders, as well as other not-for-profit programs and projects aimed at pediatric health care and health-related services.
+ The Cognizant Classic will provide us with significant national and global brand exposure, and enable us to host unique client experiences for existing and prospective customers.
+ Read the full press release here.
+ Click the images for a free download of our backgrounds that can be used in Teams meetings to show your excitement for the tournament!
+    December 14
+Visiting India
+My last visit on this India trip was to Delhi NCR. While there, I unveiled Shakti, a unified framework of women-centric programs and policies to accelerate careers and boost women leadership in technology. The campaign launch video can be viewed here.
+      December 13
+Visiting India
+Today in Kolkata, I connected with women leaders, had a great conversation about Bluebolt, planted a tree sapling on campus, and celebrated the inauguration of the IT Automation Lab. Keep up with my visit here. 
+    December 12
+Visiting India
+Today marks day one of my trip to India, where I visited the Kochi campus and held a town hall. I met with women leaders, connected with a team for a AXA/ XL capabilities showcase, planted a tree sapling, and met with many other teams. Keep up with my visit here. 
+   December 12
+Cognizant recognized as a leader in the 2023 ISG Provider Lens™ Finance and Accounting Outsourcing Services Report
+Today we annouced that Cognizant has been recognized as a Leader in ISG’s annual Finance and Accounting Outsourcing (FAO) 2023 Report. In this year’s study, ISG compared provider strengths, challenges, and competitive differentiators across four primary areas of financial management: Procure to Pay (P2P), Order to Cash (O2C), Record to Report (R2R), and Financial Planning and Analysis (FP&A). Among the 28 companies highlighted, Cognizant was named a leader across each of the four quadrants.December 11 
+#GivingTuesday
+Tobi Young, Chief Regulatory Attorney, and I are happy to announce the results of our first ever #GivingTuesday employee campaign.  Employees from 10 regions were asked to vote for their favorite charity.  The charity with the most votes would receive a one-time donation of $5000 USD.  We are happy to share the winners from each region:
+ Australia - Oz Harvest
+Canada – Environmental Defense
+Germany – DKMS (Delete Blood Cancer)
+India – Bhumi
+Malaysia – Malaysia Animal Welfare
+Philippines – ChildHope Philippines Foundation
+Poland - Fundacja Hospicyjna
+Portugal - Ajuda de Berço
+United Kingdom – Children’s University Trust
+United States – Feeding America
+ At Cognizant we are committed to supporting the communities where we work and live.  Thank you to all those who participated. We look forward to creating more opportunities to support great organizations making an impact. December 4 
+New CFO Jatin Dalal has joined Cognizant 
+Please join me in welcoming Jatin Dalal, our new Chief Financial Officer, to Cognizant. You may recall that I announced Jatin’s appointment in September. I am excited to announce that today is his first day with our company.
+ Jatin reports directly to me and oversees our company’s worldwide financial planning and analysis, accounting and controllership, tax, treasury, and internal audit functions, as well as our corporate development, investor relations and enterprise risk management, among other responsibilities.
+ Jatin comes to us with extensive executive-level financial expertise in our complex, multinational industry. Most recently, he served as President and CFO of Wipro, a global technology services and consulting company. Before becoming CFO of Wipro in 2015, he was CFO of Wipro’s Global IT Business in Bangalore. Prior to that, he served as Wipro’s UK Head of Finance for the Europe region and as the Global Finance Head for the company’s Energy & Utilities, Health Care, and Manufacturing business units.
+ Jatin joined Wipro in 2002 from GE, where he began his career in 1999. Jatin is a Chartered Accountant, Cost Accountant, Chartered Management Accountant, and Chartered Financial Analyst.
+ Jan Siegmund, who has done an exceptional job as our CFO over the past three years, will now serve as a special advisor to our company, working closely with Jatin and me to ensure a smooth transition. I am super excited to have Jatin leading our global Finance organization.December 4 
+The University of Melbourne collaborates with Cognizant to boost student engagement 
+Today we announced that we were selected by The University of Melbourne, a leading international university with a tradition of excellence in teaching and research, to help implement the Tealium Customer Data Platform (CDP). 
+ The University of Melbourne awarded Cognizant the brief to support the creation of data-led and personalised experiences for students, staff and alumni as it looks to enhance meaningful constituent engagement. Learn more here. December 4 
+Cognizant recognized by Avasant as a leader in Tech-Enabled Sustainbility Services RadarView 2023-2024
+Today we were recognized as a leader in the Tech-enabled Sustainability Services RadarViewTM 2023-2024 report conducted by leading management consulting and analyst firm Avasant. 
+ Avasant singled out our practice maturity, partner ecosystem and investments and innovation as key drivers in establishing its leadership position. In addition, the analyst firm highlighted that we are also working on generative AI-powered solutions for automating ESG disclosure and statutory documentation. Learn more here. December 1
+Cognizant recognized for the second consecutive year in the India Workplace Equality Index 
+Cognizant has been recognized as a ‘Gold’ employer, the highest rating awarded, by the India Workplace Equality Index (IWEI) 2023 for ensuring an inclusive culture and workplace for lesbian, gay, bisexual, transgender, queer, non-binary and intersex (LGBTQ+) employees and demonstrating long-term and in-depth commitment towards the LGBTQ+ community. Learn more here. November 27 
+Lets support great organizations in our communities 
+As part of our ongoing commitment to employee engagement and activation, Cognizant is hosting an employee campaign through December 1 to coincide with #GivingTuesday.
+ 
+Cognizant associates in the following markets are invited to vote for their favorite organizations:
+Australia
+Canada
+Germany
+India
+Malaysia
+Philippines
+Poland
+Portugal
+United Kingdom
+United States
+ The organization with the largest number of votes (per country) at the end of the campaign will receive a one-time donation of $5,000 USD. A total of $50,000 USD will be donated to 10 great organizations around the world. Please note that no monetary donation needs to be made by the employee.  
+
+This campaign is only open to Cognizant employees in the 10 countries listed above. Employees can only select one organization in their employment country (where you are physically located). Voting must be completed by Friday, December 1. To vote, visit Cognizant’s GivingTuesday Campaign.November 23
+Cognizant selected by Alm. Brand Group to enable automation services 
+I'm thrilled to share that today we announced a new collaboration with Alm. Brand Group, a leading insurance company in Denmark. Cognizant will begin providing a range of business processes previously outsourced by Alm. Brand Group to other vendors. The new relationship will focus on automating many of these processes and tasks in an effort to enhance efficiency, improve customer experience and further boost the group's competitiveness. Learn more here. November 16
+Cognizant named a leader in the Everest Group Next-Generation Quality Engineering Services PEAK Matrix Assessment 
+I'm excited to share that Cognizant has been recognized by Everest Group as a leader in its Next-generation Quality Engineering (QE) Services PEAK Matrix for 2023.
+ In its report, Everest Group evaluated 35 Next-generation QE service providers based on market impact and vision and capability. Leaders are noted to have a superior vision for next-generation QE services, significant mindshare among enterprises, a strong delivery capability, and a proven track record of delivering successful next-generation QE projects across different industries and geographies. Learn more here. November 14
+Cognizant study finds automation is key to success in hospitals and health, but lack of strategy creates roadblocks 
+Today we announced the results of our 2023 Healthcare Provider Automation Survey. The survey of 300 hospital and health system executives found that while leaders agree automation is vital for the healthcare industry there is a disconnect between C-Suite, IT, and business leaders on how automation is being implemented. Click here to view the full survey report and learn how injecting a more strategic, enterprise-wide approach to initiatives will lead to healthier returns. November 11
+Cognizant recognized as a leader in Generative Enterprise Services by HFS Research 
+Today, Cognizant was named a leader among 35 service providers evaluated in the HFS Horizons: Generative Enterprise™ Services 2023 report. This report is the industry’s first competitive analysis of professional services firms and the value they create with enterprise clients adopting and experimenting with generative AI (GenAI) technologies. HFS evaluated firms based on their Generative Enterprise capabilities and service offerings. Learn why HFS named Cognizant a Horizon 3 Leader.November 8
+Q3 all employee town hall recap
+Thank you to those who were able to join us for our quarterly all employee town hall. I encourage you to watch the full recording of the event to hear my recap of our Q3 earnings results, and hear Kathy Diaz, Chief People Officer, talk about training opportunities found on our recently launched GenAI hub. Gaurav Chand, Chief Marketing Officer, also provided an overview of our sponsorships, and Sandra Notardonato, SVP of Partnerships and Alliances, shared her impression of Cognizant after her first 90 days. 
+I appreciate your engagement and look forward to our Q4 town hall next year. November 3
+Cognizant recognized as a leader in ISG Next-Gen ADM Services study 
+I'm proud to share that Cognizant has been recognized as a leader in ISG’s annual Provider Lens Next-Gen ADM Services 2023 study. Cognizant received recognition in three categories across the U.S. and Europe for Agile Application Development Outsourcing; Application Managed Services and Application Quality Assurance. Learn more here.November 1
+Top 10 takeaways from our Q3 2023 earnings 
+Did you miss our earnings call? Here are the top 10 takeaways from our Q3 2023 earnings results:
+ Cognizant’s Q3 revenue was $4.9 billion, in line with earnings guidance
+Our adjusted operating margin of 15.5% exceeded our expectations 
+We recorded another quarter of bookings growth—up approximately 9% year-over-year
+About 30% of our Q3 bookings were large deals and three of these deals exceeded $100 million each
+Voluntary attrition is continuing to trend down for the last five quarters
+Our Net Promoter Score survey showed significant improvement year-over-year and hit a historic high 
+We have opened a dedicated AI innovation studio in London, and later this year we expect to open AI studios in New York, Dallas, and Bangalore
+We’ve trained about 55,000 of our employees on generative AI and have an additional 40,000 employees at all levels registered and pursuing training on this technology 
+Our Bluebolt innovation engine keeps revving, producing over 75,000 ideas so far, with more than 4,200 of these ideas focused on generative AI
+We launched a groundbreaking job training program called Cognizant’s Synapse Initiative aimed at empowering more than 1 million individuals by 2026 with advanced technology skills to thrive in the digital economy
+ Read my full message to associates. You can also read the Q3 results press release here. October 31
+Cognizant launches Synapse initiative to provide job training to one million individuals around the globe
+I am thrilled to announce the official launch of our groundbreaking training initiative, Synapse, aimed at empowering more than one million individuals with cutting-edge technology skills — like generative artificial intelligence (AI) — for the digital age. Together with governments, academic institutions, businesses, and other strategic partners, this program will leverage evolving AI technology and our premier tech services to up-prepare individuals for the future workforce. Learn more here. October 31
+Cognizant recognized by Avasant as a leader in data management and advanced analytics services
+Cognizant has been recognized as a leader in the Data Management and Advanced Analytics Services RadarViewTM 2023 report conducted by leading management consulting firm Avasant.
+ The report highlights our practice maturity, partner ecosystem and investments and innovation as key drivers in establishing our leadership position. Cognizant is also recognized for its strong capabilities in Bunsiness Intelligence and ESG data and analytics. Learn more here. October 30
+Technicolor Creative Studios selects Cognizant as its IT & digital transformation partner
+Today, it was announced that Technicolor Creative Studios — a creative technology company with award-winning teams of artists and technologists who provide premium VFX services to the global entertainment, media, and advertising industries — has selected Cognizant as its global IT & Digital Transformation partner. Under the 5-year agreement, we will provide an end-to-end managed service for Technicolor Creative Studios' users, applications, and infrastructure. The solution caters to the dual mandate of rapidly establishing a managed service for the support of Technicolor Creative Studio's corporate applications, while at the same time providing high quality by adopting best practice operating models and processes right from the start. Learn more here. October 30
+Cognizant and ISS extend their relationship to continue driving innovation within ISS's financial organization
+Today, we announced a five-year renewal with ISS, a leading workplace experience and facility management company. The extended collaboration will enable us to continue helping ISS create efficiencies and enhanced innovation within its financial organization across Northern Europe. To date, Cognizant has transitioned multiple and country specific processes and systems into one simplified, consolidated, and automated framework. The enhancements have enabled F&A employees at ISS to process more invoices each year meaning a better experience for their customers and vendors. Learn more here.October 27
+Cognizant recognized as a leader in the Everest Group Data and Analytics Services PEAK Matrix® Assessment
+I'm excited to share that Cognizant has been named a leader for the third year in a row in the annual Everest Group Data and Analytics Services PEAK Matrix® Assessment 2023 which assesses 27 global service providers.
+ The report cites our AI & Automation capabilities that offers unparalleled flexibility to support client requirements in an agile manner. Learn more here. October 26
+A statement from Ravi Kumar S
+I am deeply saddened and horrified by the recent terrorist attack on innocent Israeli citizens and the humanitarian crisis unfolding in Gaza. Cognizant condemns terror, violence, war, hate and all forms of xenophobic rhetoric; and our deepest condolences and sympathies are with the families, friends, and loved ones of those who have been killed and are suffering in this war.
+ I want to recognize that our own associates may be experiencing anxiety, fear, and pain as a result of this violence. These Cognizant and 3rd party resources provided by our Wellbeing team may help you cope and help you to support team members who are impacted or need personal support:
+ Employee Assistance Program (EAP) 
+Mental Health Recognize and Respond Trainings (sharepoint.com) 
+Secondary Trauma: When You're Affected by Another Person's Traumatic Experience
+When You're Concerned About Loved Ones in an Area of Armed Conflict 
+Tips for Parents on Media Coverage of Violent Events
+Managing Anxiety in Times of National or International TensionOctober 25
+Cognizant secures three-year digital transformation engagement with Calabrio, announces joint partnership for customer experience transformation
+I'm excited to share that today we announced a deal with Calabrio, the workforce engagement management company, to spearhead a comprehensive end-to-end digital transformation of Calabrio’s business processes and systems. Cognizant will provide advanced solutions designed to enhance Calabrio’s operational efficiency across people, data, processes, and technology.
+ Additionally, Cognizant and Calabrio will partner to support clients across industries to bring AI-powered solutions for increased employee engagement and fulfillment in a contact center environment. This will be accomplished by using our domain-focused industry tailored approach with best-in-class technology from Calabrio, while leveraging transformative AI innovation across their offerings. This strategic approach is anticipated to enrich the customer journey for end users, producing higher levels of satisfaction, loyalty, and trust. Learn more here. October 24
+Tidal listed on Time Best Inventions List 2023
+I couldn’t be more proud of the work we're doing with Tidal on implementing digital technologies for the ocean industries. Becoming more resilient in a rapidly changing environment, is needed to collectively keep our oceans healthier and address humanity’s biggest problems – from food production to renewable energy to climate change. Congratulations to Tidal on its addition to TIME magazine’s best inventions of 2023 list! October 17
+2023 Transformative CEO Award 
+I'm so honored to share that I have been named the 2023 Transformational CEO by the CEO Forum Group. Th­e award was presented for Cognizant's vision and execution of ushering in generative AI to positively elevate thousands of top global business enterprises.
+ Listen to my full interview with Robert Reiss, CEO and Founder of the CEO Forum Group, to hear my take on how generative AI will drive humans to be better, purposeful problem finders and more. You can also view the LinkedIn post here. October 17
+Cognizant and Vianai Systems announce strategic partnership to advance generative AI capabilities 
+I'm excited to share that today Cognizant and Vianai Systems, Inc. announced the launch of a global strategic go-to-market partnership to accelerate human-centered generative AI offerings. This partnership leverages Vianai's hila™ Enterprise platform alongside Cognizant's Neuro® AI, creating a seamless, unified interface to unlock predictive, AI-driven decision making. Learn more here. October 13
+Cognizant recognized in ISG Future of Work Provider Lens Services study
+Cognizant was also recognized today as a leader and rising star in ISG’s annual Provider Lens Future of Work Services Study. Cognizant received leader recognition in two categories: Digital Service Desk and Workplace Support Services and Managed Workplace Services-End-user Technology-Large Accounts. 
+ To learn more, including our being named a rising star in the Employee Experience (EX) Transformation Services category, click here. October 13
+Cognizant named a leader in the Everest Group Property and Casualty Insurance BPS Peak Matrix assessment 2023
+I'm pleased to share that Cognizant has once again been recognized by Everest Group as a Leader in their Property & Casualty (P&C) Insurance BPS PEAK Matrix for 2023. This marks the sixth consecutive year that Cognizant has received the recognition, reinforcing its excellence in BPS domain expertise. 
+ This leading research report focuses on educating enterprises turning to P&C Insurance BPS providers during the recession to address elevated operating costs resulting from heightened inflation, which has led to increased claims expenses and rate adjustments for various P&C products. 
+ Congratulations to the team! October 11
+National Coming Out Day panel discussion 
+I was delighted to recently sit down with Jan Siegmund and Shameka Young, Global Head of Diversity and Inclusion, to discuss how we can be allies to the LGBTQ+ community. Listen to our conversation to hear why LGBTQ+ representation is so important and what it means to be a good ally. We also addressed questions on education, mental health, and how we’re attracting diverse talent at Cognizant.
+ To learn more about LGBTQ+ events and news at Cognizant, visit the Embrace page.September 27
+Radio show interview with CEO Forum
+The CEO Forum Group, founded in 2007, is a Tier 1 media and marketing company focused exclusively on CEOs. I had the honor of sitting down with Robert Reiss, the founder, to talk about machine learning and generative AI, why continual learning is so important, my philosophy on diversity and AI, and my advice to other CEOs. The radio show is running on 56 radio stations across the USA, reaching 600,000+ weekly listeners. There will also be a companion magazine article next month covering many of the topics featured on Ravi's radio interview. You can listen to the interview here. September 20
+Cognizant selected by Intrum to support its digital transformation 
+Today we also announced that we have been selected by Intrum, a global credit management services company headquartered in Sweden, to provide end-to-end digital integration and core modernization services for Intrum's credit management technology platform. The enhancement will allow Intrum's contact center employees access to both actionable and data driven insights to use alongside their human empathy and judgement to better advise debt customers from its pan-European delivery centers to develop innovative solutions and support. Learn more about how our new multi-year agreement here. September 20
+Cognizant introduces Telco Assurance 360: AI-powered service assurance for the telecommunications industry
+Today we announced the launch of Telco Assurance 360, a cloud-based, AI-powered solution, built on ServiceNow and designed to help telecommunications companies (telcos) reimagine their service management strategies to drive growth in the age of AI.
+ Telco Assurance 360 provides a single pane of visibility that correlates customer experiences with real-time network performance insights. This single view is designed to help telcos identify potential issues and provide proactive resolutions, powered by AI and automation, to enable more reliable, consistent network experiences for their customers.
+ The solution advances the two companies’ previously announced strategic partnership in AI-driven automation across industries, pushing the companies along their path toward building a $1 billion combined business for Cognizant and ServiceNow. Learn more here. September 17
+Cognizant’s TriZetto® ClaimSphere® receives 13th consecutive HEDIS® Certification
+I'm excited to share that Cognizant’s Healthcare Quality Engine, TriZetto® ClaimSphere® QaaS® has received its 13th consecutive Healthcare Effectiveness Data and Information Set (HEDIS®) Certified Measure status from the National Committee for Quality Assurance (NCQA). NCQA certification validates that ClaimSphere® QaaS® quality measures have passed the rigorous testing to support health plans for the HEDIS Measurement Year 2023 reporting season. 
+ This certification is a testament to our ongoing commitment to customers. 
+ Learn more about the certification here. September 14
+Cognizant named a leader in the 2023 ISG Provider Lens Workday Ecosystem Study 
+I'm proud to share Cognizant has been identified as a Leader in the 2023 ISG Provider Lens™ Workday Ecosystem study in both Europe and the U.S. This marks the second consecutive year that Cognizant has received the recognition in both regions, reinforcing its excellence in all facets of the Workday Ecosystem.
+ This is also the first analyst report in which Collaborative Solutions, a Cognizant company and leading global finance and HR transformation consultancy, appears under the Cognizant banner, underscoring our commitment to innovation and growth in the Workday domain. Learn more here. September 12
+Cognizant and the FA expand their Digital Transformation Partnership 
+Today, we announced that we are expanding our Digital Transformation Partnership with The Football Association (The FA). 
+ This new partnership will see Cognizant become the Digital Transformation Partner of The FA, Official Partner of the Emirates FA Cup, Official Partner of the Women’s FA Cup, Official Partner of The FA Community Shield, and Official Partner of England Football.
+ Cognizant will continue to support The FA in its two-fold mission to change the game to maximise impact as well as helping to serve the game to deliver football to all. This will be achieved by serving over two million players through a transformed digital platform that serve the amateur and professional game — from player registration to connected personalised learning. Learn more here. September 7
+Executive Committee (EC) leadership update 
+I’m delighted to announce that after a global search for Cognizant’s next Chief People Officer (CPO), the Board and I have appointed Kathy Diaz, who’s been serving as interim CPO since May, to EVP and CPO.
+ Over the past five months, Kathy has impressed the Board and Executive Committee with her leadership skills, deep understanding of our culture and people strategy, success in building partnerships across the company, passion for connecting directly with associates, and commitment to providing an exceptional experience for all associates at every stage of their careers.
+ Kathy joined Cognizant in mid-2020 as SVP, Total Rewards and HR Mergers and Acquisitions. She created our global Total Rewards function to help drive a high-performance culture and led its modernization and digitization across compensation, benefits, well-being, policies, talent architecture, and HR M&A. Prior to Cognizant, Kathy held a variety of HR leadership roles at Pearson, PVH, and Merck.
+ I look forward to partnering with Kathy on advancing our efforts to become the employer of choice in our industry. 
+ Please join me in congratulating Kathy on her well-deserved promotion.September 7
+World Economic Forum byline: In the age of AI, it's problem-finding that counts
+In a recent article published by the World Economic Forum, I shared my thoughts on the importance of diversity in artificial intelligence and why I believe that the most important human skill is going to be problem-finding rather than problem-solving.
+  September 6
+Conversation with Fortune CEO Alan Murray: Closing the technology skill divide in the age of AI
+I had the opportunity to sit down with Alan Murray, CEO of Fortune, to discuss the crucial value of closing the technology skill divide in the age of AI. Check out the highlights:
+ :00 - :13 The most talked about subject in the client landscape and our employees
+:14 - :53 The 3 key disruptors in the modern history of technology
+:54 - 1:38 The significance of the shift from the development community to the user
+1:39 - 2:04 Cognizant’s approach to upskilling to amplify the human potential of our associates
+2:05 - 2:55 What types of businesses are going to win in this new era of technology?
+ August 31
+September is Enterprise Platform Month
+Why is September Enterprise Platform Month?
+September is the month when many of our platform partners hold their flagship events, like Saleforce’s Dreamforce, Oracle’s Cloud World, and Workday Rising. We are attending all of these events this year as top-tier sponsors.
+ Why are platform partnerships such an indispensable part of Cognizant’s business?
+Our teams bring critical technology and industry expertise to bear on our clients’ business challenges every day. When Cognizant specialists work inside our clients’ technology environments, we are working with the platforms on which their businesses are built.
+ Where Cognizant provides value for our clients is in understanding their goals and the unique challenges they face within their industry, bringing deep platform fluency to help them define their path forward.
+ Our combination of skills and expertise across technology domain, industry vertical and platform acumen position us uniquely to help our clients drive innovation and develop solutions that accelerate their modernization journeys, to empower strategic decision-making and maintain a competitive edge.
+ Learn more about the importance of these partnerships, and stay tuned for weekly deep dives on Be.Cog to learn more about three of our key partner flagship events, and some of the exciting news we’ll be announcing.August 30
+Cognizant recognized by ISG as a market leader in Google Cloud Partner Ecosystem
+I'm excited to share that Cognizant has been recognized as a leader of Google Cloud services and solutions in the United States and Europe in the “Provider Lens™ Google Cloud Partner Ecosystem Report 2023”, conducted by leading global research and advisory firm, ISG. 
+ ISG emphasized our comprehensive portfolio, cross-industry experience, strong market presence, ESG focus and innovative mindset across offerings and regions.
+ Referring to our recently announced Gen AI innovation hubs to collaborate on responsible AI, the ISG report praised our strong alliance with Google Cloud and highlighted Neuro®️ AI as a solution to expediate enterprise adoption of generative AI. To learn more, visit our Google Cloud partnership page.August 29
+Cognizant achieves seven global SAP certifications in 2023
+Today we announced our acheivement of receiving seven SAP certifications in 2023, the largest number of certifications in one year since we became an SAP Outsourcing Operations Partner in 2011.
+ Certifications are a key metric against which a partner is measured, and in July 2023, we achieved seven SAP certifications in the areas of:
+ Cloud and Infrastructure Operations,
+DevOps,
+SAP S/4HANA Solutions Operations,
+SAP HANA Operations
+SAP Business Suite
+SAP SuccessFactors Solutions Operations, and, for the first time,
+SAP Business Technology Platform (SAP BTP) Operations
+ To learn more about our SAP capabilities, visit the SAP Solutions & Services page.August 28
+Announcing the winners of our Bluebolt Generative AI Ideation challenge
+More than 4,100 of you developed 3,108 thoughtful and novel responses to the question: “How can we apply generative AI to make Cognizant, our clients and society better?” Today, I’m excited to announce the three ideas that our Bluebolt panel of judges believe best answered that question:  
+ Shilpi Das: “Conversational Access to document(s) – Enabling chatting with Insurance Policies” 
+Elisa Canzani, Pablo Ferreras, Paula Martinez, and Gregory Verlinden: “Beyond LLMs: a framework to master dynamic context curation for human-centered GenAI” 
+Haritha Jaladi and Jan Konietzko: “Generative AI for automated Life Cycle Assessment” 
+ Please know I’m just as impressed with our 27 other finalists who evolved their ideas and presented them to the final panels. I’m deeply grateful to all our associates who contributed to the challenge’s more than 3,000 ideas and to the almost 80 panelists for their commitment and care in evaluating the submissions. A big shout-out to the Bluebolt team for expertly planning and running this challenge. You can learn more about our winners and finalists and their ideas on Be.Cognizant. August 22
+The future of Cognizant
+Every year, we host industry analysts and advisors to preview our company’s mission, goals, culture, and capabilities. These individuals play a crucial role, bringing “the outside in” to Cognizant, helping us sharpen our competitive edge and improve our strategies. 
+ We're sharing this exclusive content so that you can see what’s coming.
+ To get started, listen to my keynote on modernizing business and then watch the other videos from the Americas and GGM Summit. August 16
+Jane Livesey and Manoj Mehta promoted to lead global growth markets
+More than half of our company’s market opportunity lies outside of the Americas, and our Global Growth Markets’ (GGM) focus on improving our strategic position with clients and capturing more of this opportunity are key to accelerating Cognizant’s revenue growth – one of our company’s top priorities.
+ With that in mind, and with Rob Walker stepping down as Cognizant’s GGM leader last month, I’m very pleased to announce two internal movements onto the Executive Committee and a change to our GGM leadership structure, effective immediately:
+ Manoj Mehta has been named Head of Europe, Middle East, Africa (EMEA), representing our commercial & delivery interests in Northern, Central, and Southern Europe; Middle East; Africa; and the United Kingdom and Ireland. Manoj’s 18 years of service at Cognizant includes leading our Global Large Deals Team, Global Head of Industry 4.0 & Industrial Internet of Things, interim Head of Global Growth Markets and commercial leadership roles in Continental Europe and Benelux.
+ Jane Livesey has been named Head of Asia Pacific & Japan (APJ), representing our commercial & delivery interests in Australia; New Zealand; ASEAN; Greater China; India; and Japan. Jane previously ran our ANZ region and joined Cognizant in August 2020 from PwC, where she led their Australian Technology Consulting practice. Prior to PwC, she was at Accenture for 12 years in various Asia Pacific leadership roles.
+ Please join me in congratulating Jane and Manoj, and in supporting our two powerful EMEA and APJ organizations as they drive to new heights, propelling Cognizant toward our unlimited potential.August 8
+Quarterly all associate town hall recap
+Thank you to those who were able to join us for our quarterly all associate town hall. I encourage you to watch the full recording of the event to hear my recap of our Q2 earnings results, major deals and accomplishments from the quarter, takeaways from our Engagement Survey and more. You’ll also want to hear Naveen Sharma, Global Practice Head, AIA, share insights on the future of AI at Cognizant.
+We received dozens of questions throughout the webcast in regards to signing up for the Google gen AI training. To register, submit this brief survey. Once completed, the licensing process will begin to gain access to the learning path.
+ I appreciate your engagement and look forward to our next town hall later this quarter.  August 7
+Becoming a market leader in AI
+One of the major themes in our company’s Q2 earnings call last week was our comprehensive commitment to generative AI (gen AI). The consensus of the C-suite leaders, industry analysts, and researchers I’ve spoken with is that gen AI is the most transformative technology to come along in years. Gen AI is a natural evolution of our work across cognitive AI, enterprise applications, and data and analytics services.
+ Driven by our culture of innovation, embodied in our Bluebolt innovation movement that has already produced more than 3,000 gen AI ideas (and 35,000+ ideas overall), we’ve further expanded our capabilities with the Cognizant Neuro AI platform. It's designed to speed the adoption of gen AI and harness its value in a flexible, secure, scalable and responsible way. With Neuro AI, we’re helping clients advance from identifying company-specific use cases to operationalizing AI. 
+ Today, we have more than 100 active early client engagements in various stages with a focus on cognitive and generative AI, as well as hundreds more projects using AI services within the context of delivery.
+ I encourage you to read my full message to learn more about the future of AI at Cognizant and commit to building your gen AI knowledge and contributing your thinking (through Bluebolt) on how best to apply this amazing technology to help our clients succeed and differentiate Cognizant.August 2
+Cognizant expands generative AI partnership with Google Cloud, announces development of healthcare large language model solutions
+I am excited to announce that Cognizant will build on Google Cloud's generative AI technology to create healthcare large language model (LLM) solutions, bringing the potential of generative AI to a range of healthcare business challenges.
+ The program's initial focus will be on transforming administrative processes in areas such as appeals and grievances, and member and patient engagement. This broad-based initiative will utilize the combined capabilities of Google Cloud's Vertex AI platform, along with Cognizant's AI domain expertise and extensive healthcare industry-focused knowledge, processes and experience.
+ I am thrilled that we are working closely with Google Cloud to realize the potential this new technology offers and demonstrate its business value for healthcare clients.August 2
+Top 10 takeaways from our Q2 2023 earnings
+Did you miss our earnings call? Here are the top 10 takeaways from our Q2 2023 earnings results:
+ Return to sequential revenue growth of more than 1%
+Financial results in line with earnings guidance
+Strong bookings growth, up 17% year-over-year, which is a good indicator of our projected revenue
+30% of bookings in Q2 were large deals (contract value of >$50M)
+Voluntary attrition is trending down for the last four quarters
+Early results from the People Engagement Survey show meaningfully improved engagement results, more details to come in September
+32,000 ideas submitted through our Bluebolt grassroots innovation movement
+Investment of $1B over the next three years in our generative AI capabilities
+Planning to open two new India centers in Bhubaneswar and Indore
+CFO Jan Siegmund to retire in early 2024 but will remain in his role to ensure a smooth transition to his successor
+ Read my full message to associates. You can also read the Q2 results press release here. July 31
+Cognizant, AWS IoT solutions, enhance manufacturing quality through computer vision technology 
+Today we announced that Cognizant is deploying cutting-edge computer vision (CV) technology to advance quality management in manufacturing environments. Our Asset Performance Excellence (APEx) offering is an integrated IT-OT Smart Manufacturing application suite built on Amazon Web Services (AWS) to identify quality issues in the production process in real-time using image analysis.
+ APEx is designed to expedite the development of a tailored sensing and analytics infrastructure. It provides a comprehensive quality monitoring experience for plant managers, operating entirely on-premises, at the edge, eliminating the need to send large amounts of data or sensitive information to the cloud. Learn more about how this solution has already delivered significant business benefits for our clients.July 27
+Generative AI storytelling hub 
+I am excited to announce the launch of a new generative-AI storytelling hub on Cognizant.com. This page provides a central medium for us to showcase our credentials and position Cognizant as the best partner to guide enterprises on their generative AI journey. 
+ The page will be updated frequently with content highlighting our industry leadership and our focus on delivering meaningful impact, in alignment with our heritage strengths. We will also include stories about our internal transformation, keeping us at the frontier of future-ready business.   
+ I'm looking forward to adding new milestones to our generative AI story.July 26
+Sustainability Magazine recognizes Cognizant as a top 10 sustainability company 
+Today, Sustainability Magazine announced the top 10 CEOs in Sustainability. Cognizant earned a coveted place on this short list of large, global companies, which is a tribute to your great work in advancing our company along our journey toward becoming a more sustainable enterprise. I encourage you to read about the progress we're making in our 2022 ESG Report and take an hour to complete our Climate Education module if you haven't done so already. 
+ I’m so proud of all of you for the work you do with our clients, across our company, and in your communities to help enable a lower-carbon economy.July 24
+Cognizant and Gilead Extend Partnership with Five-Year Service Agreement Estimated at $800 Million
+I am excited to extend our partnership with Gilead Sciences by an estimated $800M over five years. Cognizant will manage Gilead’s global IT infrastructure and lead initiatives designed to accelerate its digital transformation by leveraging the power of Gen AI and AI-led automation. The aim is faster development and time to market of Gilead’s medicines to treat life-threatening diseases, including HIV, viral hepatitis, and cancer.July 21
+Cognizant recognized as a Market Leader in Travel, Hospitality and Logistics Service Providers by analyst firm HFS
+I am excited to share that Cognizant has been recognized as a Market Leader in the HFS Horizons: Travel, Hospitality, and Logistics Service Providers, 2023 report conducted by independent analyst firm HFS. In its report, the firm assessed 21 travel, hospitality, and logistics (THL) service providers and analyzed how service providers are contributing to the digital transformation of various sub-industries such as airlines, airports, hotels, casinos, and more. As a “Horizon 3 - Market Leader,” this accolade highlights our commitment to transforming THL industries through cutting-edge expertise and capability, talent management and technology innovation.July 19
+Cognizant wins 2023 Pega Industry Excellence Award in Telecommunications 
+I am proud to share that Cognizant has been recognized by Pegasystems as the winner of the Pega Industry Excellence Award in Telecommunications, for excellence in serving clients and commitment to driving growth and transformative business outcomes. The award underscores our strong innovation and delivery capabilities in solving business problems through advisory and delivering exceptional transformative, cloud-based solutions, built on Pega’s suite of products. July 18
+Cognizant and Max Life Insurance collaborate to launch an innovation and development center in Chennai
+Lamp lighting ceremony at the inauguration of Cognizant - Max Life Insurance innovation and development center.
+Today we announced the launch of an innovation and development center in Chennai in collaboration with Max Life Insurance Co. Ltd (“Max Life”). The state-of-the-art facility will drive product innovations, enhance customer experiences and lead operational excellence for Max Life by leveraging our expertise in consulting and emerging technologies, including artificial intelligence, automation, and cloud transformation to further enhance the digital experience for customers.July 18
+Building a strong and diverse Cognizant 
+From the beginning of my time with Cognizant, I have shared the importance of – and my personal commitment to – cultivating a diverse organization, one that reflects the world in which we live. While there are several areas where I’d like to see us accelerate our progress, our first priority has been to increase our diverse talent overall, including leadership positions. That said, I am excited to share several recent appointments of women leaders, along with promotions to Senior Vice President. These announcements are something we should collectively celebrate, and I encourage you to read more about them, their personal journeys, why they chose Cognizant and what we can to do ensure a strong diverse pipeline.July 17
+Strengthening our Global Partner & Alliance ecosystem
+I am thrilled to announce the creation of a new role — SVP of Global Partnerships and Alliances — that will report to me. In this role, Sandra Notardonato, who joins us from Gartner, will be responsible for building and running a world-class partner and alliance ecosystem that will cut across markets and service lines.
+ Today, clients operate in a heterogeneous landscape, investing in technology and digital services through ecosystem plays. Therefore, it’s essential to build strong alliances and partnerships not only with hyperscalers and cloud providers but also with enterprise software companies and best-in-class digital software enterprises. These partnerships are strategic to our joint go-to-market growth plans, demand generation, and digital capabilities as well as to building innovation capital and driving the embrace of next-generation technologies. The increasing influence partners have with current and future clients makes strengthening our partner and alliance ecosystem essential to driving our commercial momentum
+ Please join me in welcoming and supporting Sandra, whose first day at Cognizant is today. July 14
+Cognizant recognized as a top leader in Everest Group's Healthcare Payer Operations Services PEAK Matrix™ Assessment
+I am excited to share that Cognizant has been recognized as a leader in the Everest Group's Healthcare Payer Operations Services PEAK Matrix™ Assessment. This is Cognizant’s fourth healthcare-specific leadership report placement. The report recognizes our strong capabilities and extensive experience in delivering innovative solutions to the healthcare payer industry. The assessment analyzed several key factors, including market success, scale, scope, technology and innovation, delivery footprint, and client feedback. I'm proud of our extraordinary set of clients, innovation network, healthcare platforms and deep expertise in the healthcare ecosystem.July 13
+Generative A.I.: Boundless potential at our fingertips
+In a recent article published by Fortune, Andreea Roberts', VP of Marketing, and I, outlook the impact of Generative A.I. on humanity and business —and the immense responsibility that comes with it. July 6
+Cognizant named on Newsweek's America's Greatest Workplaces 2023 list 
+I am excited to announce that Cognizant has been recognized as one of America’s Greatest Workplaces 2023 by Newsweek and Plant-A Insights Group!
+ Newsweek and Plant-A Insights Group identified the top 1,000 companies in the United States by conducting a large-scale employer study based on over 389,000 company reviews. Cognizant received a five-star rating, the highest available, based on evaluation in eight categories: company image, corporate culture, working environment, work-life balance, training and career progression, compensation & benefits, sustainability awareness, and proactive efforts toward workplace diversity.
+ This is an amazing recognition that speaks to the work we're doing to become an employer of choice. June 29
+Cognizant and Microsoft expand relationship to deliver innovative industry solutions and enable business transformation
+Today, we announced we're expanding our collaboration with Microsoft to deliver innovative solutions that will propel businesses forward. Cognizant has been a trusted partner of Microsoft since 2002, collaborating on various advancements across the technology ecosystem. Together, we plan to advance the progress of innovative technologies, like AI, strategically across all vertical markets. June 29
+Cognizant joins Workforce Partnership Initiative – Connecticut, reinforcing training commitment in the state
+Today, we announced Cognizant is joining the Business Roundtable’s Workforce Partnership Initiative (WPI) – Connecticut, reinforcing our commitment to train the state’s residents on the critical technology skills needed to fill the more than 47,000 technology job openings in the state. Cognizant has a long history of working across multiple industries in Connecticut, with especially deep client relationships and industry expertise in supporting digital transformation for the Banking, Financial Services, Insurance, Healthcare and Manufacturing industries. June 28
+Cognizant and ServiceNow announce strategic partnership to accelerate adoption of AI-driven automation
+Today, we announced a strategic partnership with ServiceNow to advance adoption of AI-driven automation across industries. The expanded alliance is expected to help accelerate the path toward building a $1 billion combined business for Cognizant and ServiceNow.
+ By combining Cognizant’s deep industry expertise and enterprise AI solutions with ServiceNow's powerful platform, we’ll be able to deliver innovative, cost-effective solutions that enhance the value of our client's products and services to their end customers.June 27
+Cognizant recognized as the winner of 2023 Microsoft Intelligent Automation Partner of the Year
+I am excited to announce Cognizant has received Microsoft’s 2023 Partner of the Year Award for Intelligent Automation! The award recognizes a partner that excels at providing innovative and unique customer solutions centered on Microsoft's Power Platform.
+ It is an honor to be among a global field of top Microsoft partners demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.June 27
+Celebrating 25 years of being listed and traded on Nasdaq 
+What an exciting day! Today, we celebrated 25 years of trading on Nasdaq by ringing the opening bell. If you missed the live stream of the Bell Ringing Ceremony, be sure to view the recording on the Nasdaq website. You can also engage with our content on social by visiting our LinkedIn, Twitter and Instagram pages. June 26
+Cognizant and CESPE partner to accelerate sustainable innovation in the pharmaceutical sector
+Today we announced that Cognizant, and the Centre of Excellence in Sustainable Pharmaceutical Engineering and Manufacturing (CESPE), will partner to accelerate the realization of innovative, sustainable, and agile developments in the pharmaceutical sector, at large scales. This exciting partnership will focus on knowledge sharing and prototyping ground-breaking ideas across various industry-related topics, with the use of the latest advanced analytical methods. Cognizant will also become a CESPE Industrial Member, joining the growing community where academic researchers and industrial partners are connected and where information is exchanged on sustainable pharmaceutical engineering and manufacturing at multiple levels. June 24
+Meeting India's Prime Minister Modi in Washington, D.C.
+Wow! What an honor it was to meet India's honorable Prime Minister Shri. Narendra Modi in Washington, D.C. this weekend. As part of PM Modi's historic U.S. visit, the US-India Strategic Partnership Forum (USISPC) arranged a visit with several CEOs. I've said it many times, India is the heart of Cognizant, and being able to forge meaningful relationships with leaders in India is paramount for our continued success. June 21
+Cognizant is partnering with Accuray to accelerate corporate transformation and drive operational efficiency in radiation therapy
+Today, we announced that Cognizant is partnering with Accuray Incorporated to support the company's deployment of SAP S/4HANA to obtain better data and analytics, and to achieve greater business efficiencies. Accuray develops, manufactures, and sells radiotherapy systems for the precise, personalized treatment of cancer and certain neurologic conditions. This is an exciting opportunity to augment Accuray's infrastructure with the resources necessary for success!June 19
+Orkla extends relationship with Cognizant 
+Today we announced that Cognizant has extended its relationship with Orkla, a leading industrial investment company. Cognizant will modernize the delivery model which will gear Orkla IT toward a future operating model that is essential for the business transformation of the companies under the Orkla umbrella. This represents a modern and agile way to deliver IT services, enabling greater capacity and flexibility to manage projects and resources. June 15
+Interview with CNBC India
+I had a great time sitting down with Shereen Bhan, managing editor at CNBC-TV18 in India, to discuss the outlook for tech, growth areas for Cognizant, India expansion and more. Watch part of our interview here. 
+  June 14
+Cognizant Introduces Cognizant® Ocean to help ocean industries navigate the effects of over-exploitation and climate change
+I am thrilled to share that today we announced Cognizant has created a new business group, Cognizant® Ocean, which will focus on helping clients in the "Blue Economy" apply digital technologies, such as AI and data analytics, to improve their business outcomes, reduce their carbon output and decarbonize the oceans.  
+ Cognizant Ocean aims to drive sustainability, efficiency, and growth in the Blue Economy, which encompasses a wide range of sectors that operate in and around the world's oceans, including shipping, marine transportation, offshore oil and gas, marine renewables, aquaculture, and marine conservation, among others. Check out the Be.Cognizant story to learn more. June 14
+GGM Analyst and Advisor Summit
+A terrific day learning and interacting with our friends in the analysts and advisory community in our London office!June 12
+Cognizant joins AT&T Connected Climate Initiative, commits to helping reduce one billion tons of CO2 emissions by 2035 
+I'm excited to share that Cognizant is expanding its global collaboration with AT&T by joining the AT&T Connected Climate Initiative (CCI), an industry consortium dedicated to eliminating one billion tons (the Gigaton Goal) of CO2 emissions by 2035 through the use of connectivity solutions and technology.
+ Joining the CCI is a natural expansion of Cognizant's relationship with AT&T and represents a strong marriage of technology, expertise and a shared commitment to helping enterprises achieve net zero status while continuing to drive digital business transformation. June 8
+Safeguarding our economy and supporting industries of the future
+Recently, I had the opportunity to meet with the U.K. Prime Minister and other U.S. business leaders to discuss safeguarding our economies, strengthening our supply chains and supporting industries of the future. The UK is a very important market for Cognizant, and we see tremendous growth opportunities. Last year we delivered on our promise to open delivery centers in Leeds and Northern Ireland and just this year opened our flagship London Collaboration Hub for our Cognizant employees. As a business, we remain committed to investing in the UK and see the success of our UK business as a pivotal part of Cognizant’s growth overall.June 7
+Building the workforce of the future
+I was delighted to sit down with Taranjit Singh Sandhu, Indian Ambassador to the United States. During our time we discussed the growing tech partnership between the United States and India and collaboration in skilling. Collaborations like this will be a key part in building the workforce of the future.June 6
+Crowdsourcing innovation: The Generative AI Ideation Challenge 
+Recently, we announced a company-wide Generative AI Ideation Challenge powered by Bluebolt™ to tap into the creativity of our 350,000+ associates. The challenge invites you to submit your game-changing ideas on how generative AI can positively impact our organization, our clients, and our society. This challenge is open to everyone at Cognizant, so all are invited to participate. If you know someone who might be interested, encourage them to join! Check out the Generative AI Ideation Challenge page for details. June 5
+Cognizant launches third ESG report on World Environment Day
+As we celebrate World Environment Day, we launched our third ESG report – which articulates our progress across all three ESG pillars. Last year alone our teams spent more than 1,360 hours answering our client’s ESG questions, which yielded $3.8B in revenue. To help ensure you're prepared to have conversations with clients on sustainability, read the report and take our climate education training.June 4 
+Why Cognizant?
+At our Town Hall in May, I spoke with you about the many signs of our company’s growing momentum. At the heart, is a special culture, spirit, and sense of purpose that begins with our heritage of client-centricity and flexibility—our ability to build long-term, high-quality partnerships with our clients. Clients appreciate our humility—our willingness to listen, learn, and adapt. The longevity of our client relationships attests to the trust we’ve earned by always putting clients’ needs and success first. Today, with technology at the core of every business, clients insist on expertise at the intersection of industry and technology. From our earliest days, we were known for providing expert advice to clients on how best to apply new technologies to their industry-specific business problems. The market for tech services has moved our way. We are a standout partner at this confluence of industry and technology, with the added benefit of having a client-centric operating model. We are also the rare partner that can assist clients with their range of needs—and that includes helping them responsibly deploy generative AI.
+ Our work is meaningful because we’re a trusted partner to organizations that are changing the world for the better. We engineer modern businesses to improve everyday life—the everyday life of people, organizations, and society. Close to my heart is how deeply engaged we are with our communities. Now, we have a unique opportunity to apply Cognizant’s reskilling and learning infrastructure to help our communities improve human capital at scale.
+ We also have the opportunity to reclaim our employer-of-choice standing. That’s why our people strategy is focused on accelerating role movement, strengthening our learning and leadership programs, enabling more women to advance, fostering a more diverse and inclusive workplace, and prioritizing your well-being.
+ Today, I’m more convinced than ever that we have everything we need to win in the marketplace. So, when I ask myself why Cognizant, your insights have helped me realize how uniquely fit for the future our company is. We have everything we need to be a truly great and enduring company.June 1
+Celebrating Pride Month
+Today, we celebrate the beginning of Pride Month — an opportunity to continue to uplift LGBTQ+ voices, celebrate LGBTQ+ culture and support LGBTQ+ rights. Read CFO Jan Siegmund's note on celebrating Pride Month to learn more about how to become an ally, and follow our social media channels – Yammer, LinkedIn, Twitter, Facebook and Instagram – to see stories throughout the month that highlight our commitment to creating a culture of inclusion. May 31
+Tradition meets innovation: Cognizant celebrates 20 years in Switzerland 
+Recently, we announced the opening of a new office in Geneva, Switzerland, coinciding with our 20th anniversary in the region. The new office, which opened this month, is a step to further enhance our consulting and service offerings for companies in French-speaking Switzerland. May 25
+Americas Analyst and Advisor Summit 
+Today, we hosted several analysts and advisors comprising some of the top customer influencers. Those in attendance got a great understanding of the work Cognizant is doing, where we're focused, and where our investments are. The energy in the room was amazing! What a great day!May 24
+Sustainability as a business strategy
+I'm proud to announce Cognizant’s new study, Deep Green, to help businesses embed sustainability thinking into the core of all they do. These businesses will not only shrink their own environmental footprint and those of their stakeholders, but also, they will discover new ways to secure resilient growth. Read the report to learn more about how data, technology and collaboration will drive the next phase of sustainability in business. May 22
+Introducing the new Be.Cognizant
+Over the weekend our teams launched a new Be.Cognizant. The new website is just the first step on a path to give you a better communication experience, one that's simple, personalized and built for two-way conversation with your coworkers and leaders. Take a tour of the new site here. May 21
+Cognizant recognized by Forbes for growing momentum in health services
+Cognizant was recently recognized by Forbes for delivering technology for health sciences. This recognition is one example of how our healthcare clients are continuing to invest with Cognizant as we strengthen our value proposition at the intersection of industry domain, technology and platforms. Read the full article here. May 15
+Cognizant launches Cognizant Neuro®️ AI platform to help companies responsibly deploy generative AI at enterprise scale
+I’m excited to announce that Cognizant has launched a generative AI platform – Cognizant Neuro®️ AI – offering enterprises a secure, responsible, and scalable pathway to confidently navigate the complex AI landscape Cognizant. Learn more here. May 10
+Fortune Magazine names us among the top 25 most innovative boards
+I'm proud to share we have been named #19 on Fortune's Modern Board 25 list for 2023 based on criteria that include the expertise, independence, diversity, and tenure of our board membership. View the full ranking on Fortune's website.May 9
+Cognizant and Google Cloud expand alliance to bring AI to enterprise clients
+Excited to be partnering with Google Cloud to accelerate the adoption of generative AI by businesses globally. Our investments in developing generative AI capabilities include launching the Cognizant Google Cloud AI University to train 25,000 Cognizant professionals and clients and opening a series of Google Cloud AI Innovation hubs in Bangalore, London, and San Francisco. Cognizant will play a critical role in supporting the global shift to responsible AI use. Learn more about our partnership here.
+ To share on your social channels, click the below links:
+Twitter
+LinkedInMay 8
+Cognizant named a leader for Intelligent Process Automation Solutions by Everest Group
+I am proud to announce that Cognizant has again been named a Leader in Everest Group's Intelligent Process Automation (IPA) PEAK Matrix® 2023. This recognition reaffirms our commitment to our customers and highlights the strengths of our customer-centric approach, proprietary Neuro® suite, and adaptability. Learn more here.May 4
+Accelerating investments in Generative AI
+I had the opportunity to connect with the Economic Times while in India and again after earnings last night. I’m proud of how they positioned Cognizant and what we are doing to advance our technology both inside and outside Cognizant.May 2
+Unlocking the potential of Generative AI
+With Cognizant’s brand platform defined by the words “intuition engineered,” AI and automation are core to our DNA. We recently launched Neuro IT Operations, a next-generation platform that brings new levels of automation and intelligence to applications and infrastructure operations. This platform, coupled with our prior automation investments in people and tools, will provide a strong foundation from which to leverage the power of automation and AI for our clients and our entire organization.
+ I’m extremely excited by the potential of recent breakthroughs in Generative AI that can help us fundamentally transform our clients’ businesses while accelerating their productivity and thereby driving significant impact. I believe the impact of ChatGPT ushers in a new era in which chatbot applications will generate creative content. GitHub Co-Pilot is another example of the power of Generative AI to perform the role of “companion programmer.”
+ As we’ve seen with prior technology advances, these potential benefits also require attention to security, compliance, sustainability, and model biases to assure safe and responsible implementation.
+ Click here to learn more about the three key areas that will enable us to become the leader in AI and automation.April 27
+Announcing Cognizant Skygrade™️: A Multi-Hybrid Cloud and Edge Integrated Management Platform for Comprehensive Cloud Transformation
+Excited to announce the launch of Cognizant Skygrade™️, our new multi-hybrid cloud and edge management platform. This integrated, industry-focused solution will help clients transition to modern cloud-native architectures and streamline their cloud management operations, accelerating their pace of business innovation.
+ Huge congratulations to our teams for developing this breakthrough platform! To learn more, click here.April 25
+Nike expands relationship with Cognizant to manage its global technology operations
+Today, Cognizant announced a new agreement to transform and support the technology operations of Nike, the world's leading designer, marketer, and distributor of authentic athletic footwear, apparel, equipment, and accessories.
+ Building on the companies' 14-year history of collaboration, this new agreement will consolidate several of Nike's existing IT support functions with Cognizant serving Nike across 230+ locations in more than 40 countries. Cognizant will support the company's customers, partners, as well as its 70,000 employees through three key areas of technology operations: Multilingual IT Customer Service, Deskside and Dispatch Depot, as well as Application and Infrastructure Support.
+ This is a game-changing win for our Retail team as we expand our partnership to manage global technology operations for Nike to drive exceptional customer, partner and employee experiences by leveraging AI, hyper-automation and process re-engineering. Learn more here.Day 100 
+Creating a grassroots innovation movement
+Innovation is not something that only a few people in our company do. The innovative drive lives within all of us. Given the scale and diversity of our global teams, we have the potential to harvest an abundance of ideas, big and small, that can contribute to our clients’ success and move our company forward.
+ I’m excited to announce that we’re relaunching and broadening a highly productive Continuous Improvement & Innovation (CII) program under a new name: Bluebolt, a reference to “a bolt from the blue,” meaning something important that can come from anyone or anywhere. Solving problems, looking for unmet or latent client needs, challenging the status quo, imagining a better future—these are all aspects of operating with a growth mindset.
+ Bluebolt will serve as Cognizant’s innovation engine, fueled by your ideas. It will leverage the CII program’s infrastructure, processes, and methods, along with resources from the bench, to help us convert ideas into working prototypes and from there seek to monetize these ideas by generating value for clients.
+For more insight into what I’ve been hearing from clients and why I believe Bluebolt holds such promise for all of us, I invite you to watch my conversation with Gaurav Chand in which we talk about the power of building a grassroots innovation movement and creating a large repository of innovation assets for our clients. Day 99 
+Horizon Healthcare Services selects Cognizant to support its government healthcare programs for 1.2 million members
+Cognizant has been selected by Horizon Healthcare Services, Inc., New Jersey's oldest and largest health insurer, to support its government healthcare programs. As part of a 7-year renewal agreement, Cognizant will manage Horizon's claims processing, encounters submissions to the state, provider configuration, and enrollment services for its 1.2 million Medicaid and Dual Eligible Special Needs Plan (D-SNP) members.
+Cognizant will leverage its TriZetto healthcare products suite to provide end-to-end support for Horizon, including hosting the insurer's operations on its Facets platform. By utilizing advanced automation solutions, Cognizant will help Horizon expedite the claims payment process and ensure accuracy in support of excellent member-provider experiences. Learn more about this exciting win for our Healthcare team here. Day 98 
+Global Business Services (GBS) Finance Team named Best of the Year
+I’m excited to share that our Global Business Services (GBS) Finance Team was named “Best Finance Team of the Year” and our India CFO P K Hari Hara Subramanian was named “Best CFO – IT” at the third annual India CFO Awards in Delhi.
+ This prestigious award focuses on finance teams at companies of varying sizes operating across industries in India. The panel of judges included the Joint Secretary, Ministry of External Affairs, Government of India, as well as the CFOs of several large Indian and multinational corporations.
+ Our India Finance Leadership Team was recognized for their exemplary work in areas such as people engagement, women empowerment, learning and development initiatives, hybrid work options, and outreach to our communities. PK was honored for his leadership in building a future-proof finance organization that excels at transforming financial processes for greater efficiency, developing and engaging people, driving diversity and inclusion, and promoting ESG activities.
+In my view, our global Finance organization, under Jan Siegmund’s leadership, ranks among the very best in the world. Congratulations to our entire GBS Finance Team and their leaders!Day 97
+FCCI modernizes claims operations through new cloud migration with Cognizant and Guidewire
+Today, Cognizant and Guidewire announced the modernization of claim operations for FCCI Insurance Group (FCCI), helping the regional property and casualty insurer to reduce claims processing times and costs and allow agents to focus on improving their customer experiences. FCCI selected Cognizant for our expertise in conducting cloud migration assessments and implementing Guidewire products. With a dedicated Guidewire team, Cognizant has played a crucial role in modernizing property and casualty insurance companies' business processes and technology operations. Learn more here.Day 91
+100 clients in 100 days? ✓
+I am thrilled to announce that today I met my commitment of meeting 100 clients within my first 100 days! I spent the day in Toronto, Canada, where I had the pleasure of meeting with two clients – both in the Retail, Consumer Goods, Travel & Hospitality (RCGTH) space. It has been so helpful to spend this time with clients, hearing directly from them what they like about Cognizant and the opportunities for us to improve. Across the board, clients have shared that we have a unique culture, one that is client-centric, and how our associates continuously go beyond the specifications of the job to make sure they're delivering for clients. Thank you for always showing up and going the extra mile. I couldn't be more excited to continue to lead this organization toward growth, becoming the employer of choice and operating with excellence across the board.Day 91
+Cognizant Named a Leader in Capital Markets Operations
+I'm proud to share that the independent analyst firm Everest Group recognized Cognizant as the lead player in digital operations in Capital Markets covering specialized areas like predictive analytics, ESG profiling, regulatory compliance and adapting new-age technologies like distributed ledgers. Learn more here.
+ To share on your social channels click the below links:
+Twitter
+LinkedInDay 90
+Cognizant and Boehringer Ingelheim collaborate on unified cloud platform to speed the delivery of life saving therapies
+Today, Cognizant announced it is working with Boehringer Ingelheim, a leading research-driven biopharmaceutical company, to advance the speed and quality of medicinal therapy development. Leveraging the Veeva Development Cloud, Cognizant will help Boehringer Ingelheim to unify medicinal development processes and data into a connected technology ecosystem, enhancing collaboration across clinical, regulatory, and quality functions.
+ Learn more about this great win for our Life Sciences team.
+To share on your social channels click the below links: 
+Twitter
+LinkedInDay 85
+Cognizant and Microsoft collaborate to bring Microsoft cloud-based technology solutions to the healthcare market
+ I am delighted to announce an expansion of our long-standing healthcare collaboration with Microsoft, to give healthcare payers and providers easy access to cutting-edge technology solutions, streamlined claims management, and improved interoperability to optimize business operations and deliver better patient and member experiences. Learn more.Day 84
+UK Department for Environment, Food & Rural Affairs signs £74M contract with Cognizant
+Today we announced Cognizant has been chosen by the UK’s Department for the Environment, Food and Rural Affairs (Defra) to support the delivery of business change and provide improved services to the government organization. The two-year contract will help Defra enhance its supply chain model under the Application Development and Maintenance Support services program. Learn more about this great win for our U.K. team.Day 83
+Cognizant named a top provider of healthcare cloud-based administrations
+I am excited to announce that Cognizant has been recognized as a Leader in healthcare cloud-based core administration by analyst Everest Group. In its review of 14 IT healthcare service providers, Everest Group recognized Cognizant’s TriZetto practice as a Leader for its extensive portfolio of services, strong vertical and technical capabilities, and positive client feedback. To learn more, click here. You can also share the news on your social channels by leveraging the below links.
+Cognizant LinkedIn post
+Cognizant Twitter post
+Everest Group’s assessment of Cognizant TriZettoDay 82
+Empowering businesses to run themselves through AI-led IT operations
+I am excited to announce that Cognizant’s new Neuro IT Operations platform puts AI-powered automation at the center of IT operations and enables clients to succeed in the next wave of digital transformation. Enterprises with large and ever-growing technology estates are often faced with increasing run costs and high demands on talent to keep IT operations running effectively. As risks to service availability and uptime increase, there’s little room to focus on what truly drives business value – innovation. This a defining challenge across industries that requires fresh thinking to solve, and Cognizant is committed to doing just that for our clients using a combination of state-of-the-art technology, complemented by Cognizant’s human expertise. Read the full article here and see below for a list of resources. 
+FAQs
+Sales aid
+Overview deck
+Prasad Sankaran's note on LinkedIn Day 82
+Cognizant launches climate education
+Today we launched our climate education training for all associates. I’m particularly excited about this training as I know our clients want to have important climate conversations. This training raises our awareness and prepares us to have those critical conversations. Combatting climate change requires digital transformation; as digital transformation experts, we must lead our clients in this space.
+Take the Great Climate System course today – it only takes an hour.Day 78
+Cognizant secures two coveted D&I awards
+Congratulations to the entire Diversity & Inclusion team, which recently received two World 50 I&D Impact Awards: I&D Team of the Year and our very own Shameka Young was honored with the I&D Leader of the Year Award. The World 50 I&D Impact Awards spotlight the incredible strides organizations have made to turn diversity & inclusion strategy into measurable and lasting impact. The award recipients were selected by a panel of independent judges.
+ I am extremely proud of the progress we are making in this space and look forward to working together as we continue to advance and enhance our diversity profiles.
+ Video link: I&D Impact Awards 2023: I&D Team of the Year Winner (vimeo.com)Day 77
+Cognizant named one of America's Most Innovative Companies by Fortune
+I’m excited to announce that Cognizant has been named one of America's Most Innovative Companies 2023 by Fortune and Statista (the world-leading industry ranking provider). We join 300 companies selected for “transforming industries from the inside out.”
+Cognizant is ranked 64 out of 300 and joins a technology category that includes Microsoft, Oracle, IBM, Dell, and Apple, among others. Companies were evaluated on their product and services innovation, process innovation, and innovation culture, which measures how a company fosters a spirit of entrepreneurship and creativity and enables teams to implement new ideas. We should all be proud of this recognition. You can find America’s Most Innovative Companies list here.
+ Day 76
+Caliber 2023 kickoff
+I was delighted to have a fireside chat with Joerose Tharakan, Director of Partner Development at Microsoft, on the strategic partnership between Cognizant and Microsoft, the future of the tech services industry, and upskilling in the "age of AI." What a great way to kick off Caliber 2023 — a joint yearly enablement effort to target consultants across the globe eager to learn and get certified on Microsoft Cloud technologies, driven in part by Microsoft and Cognizant Learning and Development.
+ Day 75
+Connecting with associates in San Francisco
+It was great to catch up with clients and our amazing teams in the Bay Area this week! 
+ Day 71
+UK&I Fireside Chat 
+What a wonderful time in London! I was thrilled to engage with associates during our fireside chat with SVP and UK&I Head Rohit Gupta. Thank you for your hospitality.
+ Day 70
+Simplifying the business for a growth mindset
+Today we announced an organizational change to help simplify the company’s objectives, operations and organizational structure. This change begins with the company’s performance objectives, which we’ve consolidated to three interrelated business imperatives that, when executed, will produce a self-reinforcing virtuous cycle. These objectives are 1) accelerating commercial momentum for growth, 2) becoming the employer of choice in our industry, and 3) simplifying our operations. I encourage you to read the full announcement on Be.Cognizant to learn more about the recent org change which will bring us closer to our clients and associates.Day 68
+Forbes Magazine names Cognizant Consulting one of America’s Best Management Consulting Firms
+I'm delighted to announce that Cognizant Consulting has been recognized by Forbes as one of America’s Best Management Consulting Firms in 2023. This accolade reinforces Cognizant Consulting’s reputation for excellence in developing solutions from an engineering perspective, as well as through a business and technology lens. Our expertise can be seen across multiple industries, including, automating point-of-sale data in the media industry, accelerating pharma market share analytics, and improving healthcare operations and decision-making. Learn more here.Day 65
+AWS names Cognizant a Travel and Hospitality Consulting Competency Partner
+I'm proud to share that Cognizant has achieved Amazon Web Services (AWS) Travel and Hospitality Consulting Competency status for its ability to deliver services and solutions leveraging AWS technologies. The Competency program recognizes Cognizant’s capabilities and expertise to design and implement cloud, digital transformation, revenue management, customer engagement, Point-of-Sale, and reservation system solutions. These solutions improve a client’s ability to deliver a better experience for customers while delivering more cost-efficient operations. Learn more about this achievement here.Day 64
+Building relationships to strengthen ESG and workforce skilling
+Over the last two days, I had the pleasure of meeting with state representatives and CEOs at Business Roundtable. I sat in on discussions like how the landscape for ESG and corporate sustainability investments has evolved, and learned more about the group's education and workforce policy initiatives. I'm excited to continue the conversation to discuss how businesses can partner with state executives on workforce development to help advance apprenticeship programs, workforce-driven immigration reform and more.Day 63
+Cognizant recognized as a Market Leader in Automation Services by HFS Research
+I'm thrilled to share that Cognizant has been named a Horizon 3 Market Leader in Automation Services by independent analyst firm HFS Research (HFS). Companies recognized as a Horizon 3 Market Leader have distinct capabilities to drive synergies and new sources of value across client organizations, in addition to the cost reductions, productivity improvements, and improved experiences that Horizon 1 and 2 vendors can provide. The HFS report highlights Cognizant's Automation practice, its industry orientation, and its customer-centric approach as essential to its success. Learn more here.Day 62
+Cognizant engaged by Volkswagen Group Ireland to transform its digital customer experience
+So excited to announce that Cognizant has been selected by Volkswagen Group Ireland — the multinational automotive manufacturer headquartered in Wolfsburg, Germany — to transform its digital customer service landscape. Cognizant will also provide VWG Ireland with advanced insights into customer journeys and conversations. This is intended to improve reporting, advance business decisions, and drive next best actions to provide a personalized experience to customers and recommend next steps, services or products. In addition, Cognizant will work together with VWG Ireland for continuous improvement, feature enhancements and process innovation of the CX platform. This move will enable VWG Ireland to unify its legacy contact center functionalities, streamline its customer service to reduce maintenance costs and improve efficiency, while gaining a holistic customer 360-degree view. Learn more here. Day 61
+Reflections from India: Cognizant Outreach is changing people's lives
+I’m recently back from my first visit to India as CEO, where I listened to and learned from thousands of our associates in several cities across the country while also engaging with clients, virtually and in person. The one thing that stood out were the inspiring stories of people from underserved communities who have been mentored, skilled, and trained by volunteers of Cognizant’s Outreach program. The passion and generosity of our associate volunteers who have dedicated more than 150,000 hours over the past year to help transform lives in local communities reaffirms my belief that businesses are the biggest platforms for societal change.  I met school children who were able to access online learning through laptops and devices donated by Cognizant, students from economically weaker sections who were coached from class 9th onwards to reach their goals of getting into top tier engineering colleges, young women from rural areas of India whom our volunteers upskilled for technology jobs…hearing these and more stories of people overcoming extraordinary hardships and changing their future with support from our volunteers was priceless. Thanks to all our Outreach volunteers and leaders globally for their incredible work and for making volunteerism a unique differentiator at Cognizant.
+See more photos on my LinkedIn post and leave a comment to let me know how you've improved people's lives through Outreach, no matter where you are in the world. Day 57
+Cognizant plans to open a new office in Malaysia and increase its workforce to 5000 by 2026
+I'm excited to share that Cognizant announced its new office in Kuala Lumpur, Malaysia will open by the end of Q2 2023 and increase its workforce to 5,000 within the next three years. The new office comprises of a Centre of Excellence (CoE) and 17 offshore development centers (ODCs). This investment in Cognizant Malaysia validates the critical role it plays in Cognizant’s global delivery network and growing suite of services that support clients from a range of sectors in their digitalization journey. Day 56
+Celebrating International Women's Day
+Today, I had the opportunity to connect with our women in Coimbatore, one of our sites in India with our highest gender diversity (49% women).
+ Listen to my discussion with CPO Becky Schmitt where we discuss the desired associate experience regarding gender equity, and answer some of your pre-submitted questions.
+ Also, be sure to check out the International Women's Day microsite for a full list of events happening across the organization throughout the month.Day 55
+Engaging with associates in Bangalore
+What an exciting day in Bangalore! The buzzing site has such diverse representation across industries and service lines! Thank you for your warm welcome and your engagement during our town hall. Day 54
+Engaging with associates in Pune
+I'm thrilled to continue my listening tour with a trip to Pune. The vibrant energy reminded me of our entrepreneurial spirit, bold ambitions and strong camaraderie.Day 51
+Connecting with associates in Hyderabad
+What an energizing day in Hyderabad, a city that is very special to me. I lived there until 2014 when I moved to the United States. Today’s town hall was packed with smiling faces and a sense of excitement filled the air. While I spent the day in Hyderabad, we had two other teams visit Kochi and Bangalore. Rajesh hosted the local team in Kochi and Surya met with the team in Bangalore. I’m looking forward to visiting both cities next week and meeting the teams. It’s so energizing to be back in India wearing the Cognizant brand. Thank you for the warm welcome.Day 50
+Connecting with associates in Chennai
+Today, I had the opportunity to engage with more than 1,000 associates in Chennai. I enjoyed answering your questions and getting to know what’s on your mind. I look forward to continuing my listening tour to help us become our industry’s employer of choice.Day 49
+DSB selects Cognizant as sole offshore supplier of IT consulting services
+Today we announced that DSB, Denmark’s state railway operator, has selected Cognizant as the sole provider of offshore IT consulting services to accelerate, scale and further improve its ability to deliver against its digital strategy.
+ The multi-year agreement is aimed at extending DSB’s data analytics, IoT and software development capabilities to better manage and plan availability of trains, have a better understanding of peak demand for services, gain insights into passenger sentiments, and enable predictive maintenance of its fleet. Congratulations to the team!Day 47
+Cognizant brings Data Intelligence Toolkit to Snowflake’s Telecom Data Cloud
+I'm proud to share that Cognizant recently announced the launch of our Data Intelligence Toolkit as a pre-built solution for the Telecom Data Cloud, launched by Snowflake, the Data Cloud company. The Telecom Data Cloud unites Snowflake’s platform, Snowflake-and-partner-delivered solutions, and industry-specific datasets.
+ The Telecom Data Cloud is designed to help telecommunications service providers accelerate digital transformation for the Telecom industry, enable superior customer experiences, maximize operational efficiency, and monetize new data services. Learn more here.Day 42
+Our purpose in action: Making a lasting impact on healthcare in Africa
+In partnership with GSK, one of our key Life Sciences clients, Cognizant collaborated with Africa’s leading health charity, Amref Health Africa, to address the shortage of skilled healthcare workers, sustainably strengthen healthcare systems and increase access to life-saving care through digital transformation. Our multitalented Cognizant team, led by Sathish Manickam, Chief Architect, took on the challenge to develop an integrated, user-friendly and cost-effective platform to help Amref identify training requirements, greatly improve planning and resource allocation and enable more data-driven decision-making. The team spent more than 5,000 hours working with Amref to develop the “single pane of glass” platform, which is already helping to improve the quality of service healthcare workers provide through better visibility of training requirements and enhanced training programs. Click here to read the full story.Day 35
+Cognizant supports relief efforts in Turkey and Syria
+We have all seen the headlines of the horrible earthquake that resulted in utter devastation and widespread suffering across Turkey and Syria earlier this month. Many of our associates have friends and family in this region and as a community of more than 355,000 associates, we want to show our commitment and support for those that have lost loved ones due to this tragedy. I’m pleased to share that Cognizant has donated $150,000 to support relief efforts in the region, including UNICEF USA, World Central Kitchen and the Turkish Red Crescent (the Red Cross affiliate in the region). If you are looking to support local relief efforts we encourage you to support organizations at the local level to make the most impact and reduce any delay. We are keeping this region in our thoughts and prayers as rescue efforts strive to find those who may still be alive and these communities begin their efforts to recover from this disaster.Day 33
+Business leaders and governors discuss workforce opportunities
+Pictured from left to right: Greg Gianforte, Governor of Montana; Brad Smith, Microsoft Vice Chair and President; Ravi Kumar S, CEO of Cognizant; Jennifer Aument, AECOM Transportation Chief Executive.
+ In a recent panel conversation, I, along with Microsoft Vice Chair and President Brad Smith, and AECOM Transportation Chief Executive Jennifer Aument, had the pleasure of talking to New Jersey Governor Phil Murphy and Montana Governor Greg Gianforte about strategies – including broadband access, digital skills training and apprenticeship programs – to address workforce shortages and ensure workers have the skills required to succeed in a changing job market. I was proud to share Cognizant's commitment to build a strong and vibrant U.S. workforce: "We’ve dedicated $150 million to support education and STEM skills development, and sponsored the [National Governors Association's] Workforce Innovation Network to support states in creating broader digital access. We’ve seen the benefits of private-public partnerships and appreciate NGA gathering us to exchange innovative solutions. Since the U.S. is one of Cognizant’s principal markets, we’re just as committed to investing millions of dollars in our employees’ continuous training, hiring from schools around the country, and upskilling across a range of digital skills."Day 28
+Connecting with associates around the world
+Yesterday, I accomplished one of my main goals: to have the opportunity to speak with all 350,000 associates. I enjoyed answering your questions and getting to know what’s on your mind. If you missed our first all-associate town halls, be sure to view the first and second sessions.Day 27
+My prediction for 2023
+The Wall Street Journal asked business leaders what they see on the horizon. I was humbled to have my viewpoint included: “We see a strong push now to bring AI into business landscapes with the expectation that AI will re-engineer enterprises as completely as enterprise software did three decades ago. Of course, as clients navigate a challenging macro environment now, they need to fund their investments in digital transformation by executing cost and efficiency agendas.”Day 26
+Knowledge is power
+I knew it from the outside and now I’m seeing it from the inside: Our expertise runs deep. Just look at the deal we just announced to help Orica achieve their Net Zero goals. Orica will tap into both our digital and Environmental, Social, Governance (ESG) skills to accelerate development of a platform to report greenhouse gas emissions. Congratulations to the team in Australia on landing this deal!Day 25
+Cognizant recognized as a leader in 17 analyst reports
+In recognition of your expertise, industry analysts named Cognizant a technology leader across industries in 17 analyst reports in Q4. In 2022, we were recognized by industry analysts in 53 different categories. View the Be.Cognizant article to see the reports and visit Linkedin and Twitter to like and share.Day 23
+Earnings ✓ Client Visits ✓✓✓✓
+Pictured from left to right: Annie Lai, Director, Investor Relations; Ravi Kumar S, CEO; Tyler Scott, VP, Investor Relations; Jan Siegmund, CFO. 
+My first earnings with Cognizant is in the books and I added four additional clients to the ticker. It’s great to hear what’s on our clients' minds and how we can help.Day 22
+Behind the scenes with Meera
+I really enjoyed my time connecting with Meera Krishnamurthy, our leader for the Banking & Financial Service business unit. Feel free to listen in on our conversation!Day 20
+In the office with purpose
+On Monday, the UK team opened their doors to the new UK headquarters, located at 280 Bishopgate in the heart of London. Not only is it a great location, but it embodies our focus on bringing the ideals of ESG to the lives and wellbeing of our associates, all while meeting the highest levels of energy efficiency. Congratulations team!Day 16
+Preparing for earnings
+This week I’ve spent a lot of time with our incredible Finance and Investor Relations team. We’re preparing to report our Q4/full year earnings next Thursday.Day 14
+Our clients want a partner, and digitization and automation are on their minds
+In my first 13 days with Cognizant, I’ve met with five clients. While from very different industries - public sector, banking & financial services, retail – they shared a lot of the same sentiments. They are looking for a partner, not just an IT service provider, that offers them unique insights and a point of view on what they can do to improve their operations. They also emphasized the importance of digitization and automation. It was great to know we are on the same page!Day 6
+Listening and learning
+Over recent days I’ve met about 1,000 client-facing associates who attended the recent Cognizant Growth Summit in Abu Dhabi. I’ve been listening to understand more about Cognizant’s unique culture and how we can collectively become our industry’s employer of choice.Day 3
+The journey begins -- join me
+Within my first few days with Cognizant, I made a public commitment to do everything possible to meet at least 100 clients in my first 100 days, along with all associates. I want to bring you along on my journey and share insights from these connects. Along the way, I will keep you abreast of my progress each week, all the way through to my 100th day – April 24. I started this journey by meeting the Cognizant Executive Leadership Team.Day 1
+I’m honored and humbled to join this great company
+Looking forward to getting started!
